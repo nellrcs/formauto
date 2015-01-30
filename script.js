@@ -1,7 +1,7 @@
 var x8_formularios = document.forms;
 var x8_def = "sabão";
-var x8_tipos = {email:"nellrcs@gmail.com", password:"loja123"};
-var x8_nomes = {email:"nellrcs@gmail.com", telefone:"4444444444"};
+var x8_tipos = {email:"email@gmail.com", password:"123"};
+var x8_nomes = {email:"email@gmail.com", telefone:"4444444444"};
 function tipo_campo(x8_camp)
 {
 	var x8_bitch = "";
